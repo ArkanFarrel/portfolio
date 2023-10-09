@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.7e6ede81.css",
+    "main.js": "/portfolio/static/js/main.e6291fec.js",
+    "static/media/job.gif": "/portfolio/static/media/job.c2411b30b8567484fb4b.gif",
+    "static/media/ig.png": "/portfolio/static/media/ig.05004ba1005514f9e852.png",
+    "static/media/figma.png": "/portfolio/static/media/figma.06ab420be68591834441.png",
+    "static/media/power.png": "/portfolio/static/media/power.81ca5ee8b451e8a7743d.png",
+    "static/media/web.jpeg": "/portfolio/static/media/web.d737be34d0f7b3e5b488.jpeg",
+    "static/media/figma.jpeg": "/portfolio/static/media/figma.a9ab8d3850326fb20d8b.jpeg",
+    "static/media/excel.png": "/portfolio/static/media/excel.54068a0f20610bf0a3ca.png",
+    "static/media/web2.jpeg": "/portfolio/static/media/web2.847f7c99e262229e7e94.jpeg",
+    "static/media/web3.jpeg": "/portfolio/static/media/web3.7d521b7f6469095726fa.jpeg",
+    "static/media/word.png": "/portfolio/static/media/word.5ccefd0e77664fec2085.png",
+    "static/media/py.png": "/portfolio/static/media/py.52d7bb207f9868b90e39.png",
+    "static/media/web1.jpeg": "/portfolio/static/media/web1.e1ff873246ecd63ec2de.jpeg",
+    "static/media/gmaill.png": "/portfolio/static/media/gmaill.2aa050721562bfaa6714.png",
+    "static/media/idn.png": "/portfolio/static/media/idn.2f9492821b6cc624fdca.png",
+    "static/media/html.png": "/portfolio/static/media/html.5a8a743e8b8033ea5ca7.png",
+    "static/media/css.png": "/portfolio/static/media/css.bc75ccc78e3bf74f8aed.png",
+    "static/media/git2.png": "/portfolio/static/media/git2.71d69e6b2dd992d12558.png",
+    "static/media/bootsrap.png": "/portfolio/static/media/bootsrap.1f71fd49c820640e0382.png",
+    "index.html": "/portfolio/index.html",
+    "main.7e6ede81.css.map": "/portfolio/static/css/main.7e6ede81.css.map",
+    "main.e6291fec.js.map": "/portfolio/static/js/main.e6291fec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e6ede81.css",
+    "static/js/main.e6291fec.js"
+  ]
+}
